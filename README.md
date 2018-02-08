@@ -19,5 +19,8 @@ Project Navatar
 crowdaming platform
 http://navatar.ru/sites/default/files/navatar2.jpg
 
+Site
+http://navatar.ru
+
 
 
